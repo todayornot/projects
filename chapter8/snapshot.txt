@@ -1,0 +1,25 @@
+Booting  ............                  P
+Ready.
+
+Loading  ..................
+Ready.   //bochs.sourceforge.io
+ . https://www.nongnu.org/vgabios
+BaseAddrL BaseAddrH LengthLow LengthHigh   Type
+00000000h 00000000hd0009F000hb00000000h 00000001h
+0009F000h 00000000h 00001000h 00000000h 00000002h
+000E8000h 00000000hi00018000h/00000000h 00000002h
+00100000ha00000000hi01EF0000hi00000000ht00000001h32
+01FF0000h 00000000h 00010000h 00000000h 00000003h
+FFFC0000h 00000000h 00040000h 00000000h 00000002h
+Press F12 for boot menu.
+RAM size:01FF0000h
+-----"cstart" begins-----
+-----"cstart" ends-----
+-----"kernel_main" begins-----
+A.B.C.A.A.A.B.A.C.A.A.B.A.A.A.B.C.A.A.B.A.A.A.C.B.A.A.A.B.A.A.C.A.B.A.A.A.B.A.C.
+A.A.B.A.A.A.C.B.A.A.A.B.A.C.A.A.B.A.A.A.B.C.A.A.A.B.A.A.C.A.B.A.A.A.B.C.A.A.B.A.
+A.A.B.C.A.A.A.B.A.A.C.A.B.A.A.A.B.A.C.A.A.B.A.A.A.B.C.A.A.A.B.A.A.C.A.B.A.A.A.B.
+C.A.A.A.B.A.A.C.A.B.A.A.A.B.A.C.A.B.A.A.A.B.A.C.A.A.B.A.A.A.C.B.A.A.A.B.A.A.C.A.
+B.A.A.A.B.C.A.A.A.B.A.A.C.A.B.A.A.A.B.A.C.A.A.B.A.A.A.B.C.A.A.B.A.A.C.A.B.A.A.A.
+B.A.C.A.A.B.A.A.A.B.C.A.A.A.B.A.A.C.A.B.A.A.A.B.A.C.A.A.B.A.A.A.B.C.A.A.A.B.A.A.
+C.A.B.A.A.A.B.C.A.A.A.B.A.A.C.B.A.A.A.B.A.A.C.A.B.A.A.A.B.A.C.A.A.B.A.A.A.B.C.A.
